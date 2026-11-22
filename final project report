@@ -1,0 +1,53 @@
+Superstore Data Analytics – Final Case Study
+
+Project Overview
+
+This project analyzes the Superstore dataset to understand sales performance, profitability, product trends and regional performance using data analytics and Power BI visualization.
+
+Problem Statement
+
+The objective is to analyze business sales data, identify profitable and underperforming areas, and generate insights that can help improve business performance and decision-making.
+
+Dataset
+
+The Superstore dataset contains business-related information such as sales, profit, orders, products, regions, customer segments and discounts.
+
+Tools Used
+
+- Microsoft Power BI
+- DAX
+- Data Visualization
+- Data Analysis
+
+Analysis Performed
+
+- Sales and profit performance analysis.
+- Product category and sub-category analysis.
+- Regional sales analysis.
+- Customer segment analysis.
+- Discount and profitability analysis.
+- Sales trend analysis.
+
+Dashboard
+
+An interactive Power BI dashboard was developed to visualize important KPIs, sales performance, profitability and business trends.
+
+Key Business Insights
+
+The analysis helps evaluate business performance, identify profitable product categories and regions, understand sales patterns and examine discount-related profitability.
+
+Recommendations
+
+- Focus on profitable products and categories.
+- Review discount strategies.
+- Improve performance in underperforming regions.
+- Use sales trends for better planning.
+- Monitor business performance through the dashboard.
+
+Conclusion
+
+This case study demonstrates the use of data analytics and Power BI to transform business data into meaningful insights and support data-driven decisions.
+
+Internship
+
+Swynex Technologies
